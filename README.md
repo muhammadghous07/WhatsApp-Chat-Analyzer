@@ -3,6 +3,7 @@
 Analyze and visualize your WhatsApp chat history like never before — with rich, dynamic charts, emoji usage, word clouds, and daily/monthly activity timelines in a clean 12-hour AM/PM format.
 
 🚀 Project Highlights
+
 ✅ Built with Streamlit for a smooth and interactive user experience
 ✅ Uses matplotlib, seaborn, pandas, WordCloud, and emoji libraries
 ✅ Presents visually appealing stats and charts on WhatsApp chats
